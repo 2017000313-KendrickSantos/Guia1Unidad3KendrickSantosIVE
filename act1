@@ -1,0 +1,16 @@
+Algoritmo colores
+	Definir num Como Caracter
+	Definir a Como Entero
+	Dimensionar num[8]
+	num[1] = "rojo"
+	num[2] = "amarillo"
+	num[3] = "azul"
+	num[4] = "morado"
+	num[5] = "naranja"
+	num[6] = "cafe"
+	num[7] = "blanco"
+	num[8] = "negro"
+	Escribir "Dime el valor del indice que desea visulizar: (1-10)"
+	Leer a
+	Escribir "El color en el indice ", a ," es: ",num[a]
+FinAlgoritmo
