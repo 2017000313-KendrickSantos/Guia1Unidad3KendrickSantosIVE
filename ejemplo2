@@ -1,0 +1,19 @@
+Algoritmo ejemplo_2
+	//Llenar un arreglo con 10 datos numericos y solicitar al usuario el valor que desea visualizar por medio del indice
+	Definir num, a Como Entero
+	//almacena  10 espacios
+	Dimensionar num[10]
+	num[1] = 100
+	num[2] = 200
+	num[3] = 300
+	num[4] = 400
+	num[5] = 500
+	num[6] = 600
+	num[7] = 700
+	num[8] = 800
+	num[9] = 900
+	num[10] = 1000
+	Escribir "Dime el valor del indice que desea visulizar: (1-10)"
+	Leer a
+	Escribir "El valor en el indice ", a ," es: ",num[a]
+FinAlgoritmo
