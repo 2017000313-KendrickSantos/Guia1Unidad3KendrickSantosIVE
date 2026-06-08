@@ -1,0 +1,11 @@
+Algoritmo Ejemplo_num1
+	Definir num Como Entero
+	//almacena  5 espacios
+	Dimensionar num[5]
+	num[1] = 100
+	num[5] = 500
+	Escribir "El calor en el indice 1 es: ",num[1]
+	Escribir "El calor en el indice 5 es: ",num[5]
+	
+	
+FinAlgoritmo
